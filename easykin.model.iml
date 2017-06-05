@@ -10,24 +10,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../EasyKin/lib/RRozhkovLib-1.7-SNAPSHOT.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
-    <orderEntry type="module-library">
-      <library name="Maven: ru.rrozhkov.lib:rrozhkov-lib:1.7-SNAPSHOT">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/RRozhkovLib-1.7-SNAPSHOT.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="module" module-name="easykin.lib" />
   </component>
 </module>
